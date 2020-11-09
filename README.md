@@ -1,7 +1,7 @@
 How To Run
 ==========
    
-   Simply download of the files and run the game class!
+   Simply download all of the files and run the game class!
    
 Core Concepts
 =============
