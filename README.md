@@ -1,4 +1,10 @@
+How To Run
+==========
+   
+   Simply download of the files and run the game class!
+   
 Core Concepts
+=============
 
   2D ARRAY: I used a 2D array to store the tiles. Each tile had a value and I could
   move the tiles around the grid by changing the values at each index.
@@ -11,6 +17,7 @@ Core Concepts
   TESTING: I tested each function to make sure that they were working correctly
 
 Implementation
+==============
   
   TILE: the tile class created a single tile with a value (with 0 for empty) and
   had methods for drawing each individual tile given a specific value
